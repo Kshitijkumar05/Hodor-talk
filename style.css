@@ -20,7 +20,7 @@ nav{
     padding: 1rem;
 }
 
-main {
+.main {
     margin: auto;
     padding: 1rem;
     max-width: var(--width-break);
