@@ -55,7 +55,7 @@ button {
     border: 1px solid var(--black);
 }
 
-footer {
+.footer {
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -64,7 +64,7 @@ footer {
     text-align: center;
 }
 
-footer p {
+.footer p {
     max-width: var(--width-break);
     margin: auto;
 }
